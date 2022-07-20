@@ -1,37 +1,24 @@
 ## Yang GaoBin
 
-You can use the [editor on GitHub](https://github.com/liyunlongaaa/YangGaoBin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I am Yang GaoBin, a first-year MS student in University of Science and Technology of China (USTC), supervised by [Prof Du Jun](http://staff.ustc.edu.cn/~jundu/index.html). My email address is yanggaobin@mail.ustc.edu.cn.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Interesting Area not Expertise
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+speech and language processing.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Education
 
-- Bulleted
-- List
+Master: University of Science and Technology of China (USTC), 2022-????
+B.Eng: Wuhan University of Technology, China, 2017-2021
 
-1. Numbered
-2. List
+### Publications
 
-**Bold** and _Italic_ and `Code` text
+No any papers at all, you read that right^^.
 
-[Link](url) and ![Image](src)
-```
+### Teaching Assistance
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Nothing at all.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liyunlongaaa/YangGaoBin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

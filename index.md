@@ -4,7 +4,7 @@ Hi! I am Yang GaoBin, a first-year MS student in University of Science and Techn
 
 ### Interesting Area not Expertise
 
-speech and language processing.
+Speech and Language Processing.
 
 ### Education
 

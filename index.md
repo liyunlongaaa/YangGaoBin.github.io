@@ -6,9 +6,6 @@ Hi! I am Yang GaoBin, a first-year MS student in University of Science and Techn
 
 speech and language processing.
 
-```markdown
-Syntax highlighted code block
-
 ### Education
 
 Master: University of Science and Technology of China (USTC), 2022-????

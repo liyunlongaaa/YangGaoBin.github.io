@@ -1,6 +1,6 @@
 ## Yang GaoBin
 
-Hi! I am Yang GaoBin, a first-year MS student in University of Science and Technology of China (USTC), supervised by [Prof Du Jun](http://staff.ustc.edu.cn/~jundu/index.html). My email address is yanggaobin@mail.ustc.edu.cn.
+Hi! I am Yang GaoBin, a first-year MS student in University of Science and Technology of China (USTC), supervised by [Prof Du Jun](http://staff.ustc.edu.cn/~jundu/index.html). My email address is gaobinyang@mail.ustc.edu.cn.
 
 ### Interesting Area not Expertise
 

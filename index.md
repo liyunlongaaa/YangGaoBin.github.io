@@ -14,8 +14,8 @@ Speech and Language Processing, Multimodal Learning.
   - B.Eng: Wuhan University of Technology, China, 2017-2021
 
 ### Publications
-  - **Gaobin Yang**, et al. Neural speaker diarization using memory-aware multi-speaker Embedding with sequence-to-sequence architecture, ICASSP, 2024. [[paper](https://arxiv.org/abs/2309.09180)] [[Code](https://github.com/liyunlongaaa/NSD-MS2S)]
-  - **Gaobin Yang**, et al. AD-TUNING: An Adaptive CHILD-TUNING Approach to Efficient Hyperparameter Optimization of Child Networks for Speech Processing Tasks in the SUPERB Benchmark, Jun Du1, Mao-kui He, Shutong Niu, Baoxiang Li, Jiakui Li, Chin-Hui Lee, INTERSPEECH, 2023. [[paper](https://www.isca-archive.org/interspeech_2023/yang23n_interspeech.pdf)] [[Code](https://github.com/liyunlongaaa/AD-TUNING)]
+  - Gaobin Yang, et al. **Neural speaker diarization using memory-aware multi-speaker Embedding with sequence-to-sequence architecture**, ICASSP, 2024. [[paper](https://arxiv.org/abs/2309.09180)] [[Code](https://github.com/liyunlongaaa/NSD-MS2S)]
+  - Gaobin Yang, et al. **AD-TUNING: An Adaptive CHILD-TUNING Approach to Efficient Hyperparameter Optimization of Child Networks for Speech Processing Tasks in the SUPERB Benchmark**, INTERSPEECH, 2023. [[paper](https://www.isca-archive.org/interspeech_2023/yang23n_interspeech.pdf)] [[Code](https://github.com/liyunlongaaa/AD-TUNING)]
 
 ### Challenge Award
   - Computational Hearing in Multisource Environments (CHiME-7) challenge, Task1: Distant Automatic Speech Recognition with Multiple Devices in Diverse Scenarios (DASR), ***1st place***.

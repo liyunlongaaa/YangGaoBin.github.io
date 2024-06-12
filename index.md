@@ -14,7 +14,8 @@ Speech and Language Processing, Multimodal Learning.
   - B.Eng: Wuhan University of Technology, China, 2017-2021
 
 ### Publications
-  - Gaobin Yang, et al. **Neural speaker diarization using memory-aware multi-speaker Embedding with sequence-to-sequence architecture**, ICASSP, 2024. [[paper](https://arxiv.org/abs/2309.09180)] [[Code](https://github.com/liyunlongaaa/NSD-MS2S)]
+  - Gaobin Yang, et al. **Neural Speaker Diarization Using Memory-Aware Multi-Speaker
+Embedding With Sequence-To-Sequence Architecture**, ICASSP, 2024. [[paper](https://arxiv.org/abs/2309.09180)] [[Code](https://github.com/liyunlongaaa/NSD-MS2S)]
   - Gaobin Yang, et al. **AD-TUNING: An Adaptive CHILD-TUNING Approach to Efficient Hyperparameter Optimization of Child Networks for Speech Processing Tasks in the SUPERB Benchmark**, INTERSPEECH, 2023. [[paper](https://www.isca-archive.org/interspeech_2023/yang23n_interspeech.pdf)] [[Code](https://github.com/liyunlongaaa/AD-TUNING)]
 
 ### Challenge Award

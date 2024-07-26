@@ -1,6 +1,4 @@
-## Yang GaoBin
-
-<img src="https://github.com/liyunlongaaa/YangGaoBin.github.io/blob/gh-pages/C3C2F14B5D8B44912314C8C07760B2FF.jpg" alt="Example Image" width="400" height="300">
+<img src="https://github.com/liyunlongaaa/YangGaoBin.github.io/blob/gh-pages/C3C2F14B5D8B44912314C8C07760B2FF.jpg" alt="gaobin" width="400" height="300">
 
 Hi! I am Yang GaoBin, a second-year MS student in University of Science and Technology of China (USTC), supervised by [Prof Du Jun](http://staff.ustc.edu.cn/~jundu/index.html). My email address is gaobinyang@mail.ustc.edu.cn.
 

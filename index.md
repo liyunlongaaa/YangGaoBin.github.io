@@ -8,7 +8,7 @@ Speech and Language Processing, Multimodal Learning.
 
 ### Education
 
-  - Master: University of Science and Technology of China (USTC), 2022-2024
+  - Master: University of Science and Technology of China (USTC), 2022-2025
     - National Engineering Research Center of Speech and Language Information Processing (NELSLIP) [[Link](http://nelslip.ustc.edu.cn/)]
     - Signal Processing and Pattern Recognition Application Team (SPART) [[Link](http://staff.ustc.edu.cn/~jundu/index.html)]
   - B.Eng: Wuhan University of Technology, China, 2017-2021
